@@ -1,8 +1,8 @@
 {
   "name": "@urbn/state-machine",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A small Javascript Promise-based Finite State Machine implementation",
-  "author": "mbrophy@urbn.com",
+  "author": "URBN",
   "license": "MIT",
   "main": "src/state-machine.js",
   "types": "@types/state-machine.d.ts",
@@ -14,13 +14,13 @@
     "package-lock.json",
     "README.md"
   ],
-  "homepage": "https://github.com/brophdawg11/state-machine#readme",
+  "homepage": "https://github.com/urbn/state-machine#readme",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/brophdawg11/state-machine.git"
+    "url": "git+ssh://git@github.com/urbn/state-machine.git"
   },
   "bugs": {
-    "url": "https://github.com/brophdawg11/state-machine/issues"
+    "url": "https://github.com/urbn/state-machine/issues"
   },
   "keywords": [
     "js",
